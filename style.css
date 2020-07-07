@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.price{
+    text-align: center;
+}
+
+.card{
+    border: rgb(241, 235, 235);
+    box-shadow: 5px 5px 15px;
+   
+}
+h3{
+    color: orange;
+}
+
+
+
+
+.cate-bg{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 0 25px;
+}
+
+span.cate{
+    border: 1px solid rgb(243, 132, 28);
+    width: 9%;
+    height: 7px;
+    border-radius: 15 px;
+    display: inline-block;
+  
+}
+.catego{
+    margin: 25px 0;
+}
